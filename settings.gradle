@@ -1,0 +1,2 @@
+include ':app', ':dloader'
+rootProject.name='aos-loader'
